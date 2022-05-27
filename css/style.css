@@ -42,8 +42,10 @@ header{
     width: 150px;
 }
 .nav-links a{
-    color: black;
-    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    
+
 
 }
 .nav-link:hover{
